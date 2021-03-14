@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.name {
+  color: tomato;
+  font-family: monospace;
+}
+.address {
+  color: burlywood;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.photo {
+  width: 180px;
+}
